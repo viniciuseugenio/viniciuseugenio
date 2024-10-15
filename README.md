@@ -1,4 +1,4 @@
-### Hello friend,, I'm Vinícius! 
+### Hello friend, I'm Vinícius! 
 
 I'm a 17 years old passionate developer coming from Brazil 🇧🇷, and I consider myself to be a very eager person to experience and learn things, not only in the tech industry, but all about life, people and adventures. I'm always trying to better myself through reading books, watching useful videos and also movies. I personally think it's possible to take a drop of wisdom everywhere, even in those places and people you deem to be the worst on Earth.   
 
