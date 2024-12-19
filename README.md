@@ -1,8 +1,8 @@
 ### Hello friend, I'm Vinícius! 
 
-I'm a 17 years old passionate developer coming from Brazil 🇧🇷, and I consider myself to be a very eager person to experience and learn things, not only in the tech industry, but all about life, people and adventures. I'm always trying to better myself through reading books, watching useful videos and also movies. I personally think it's possible to take a drop of wisdom everywhere, even in those places and people you deem to be the worst on Earth.   
+I'm a 17 years old passionate developer coming from Brazil 🇧🇷. I am a very eager person to experience and learn things, not only in the tech industry, but all about life, people and adventures. I'm always trying to better myself through books, videos and movies. From my point of view, it's possible to take a drop of wisdom everywhere, even in those places and people you deem to be the worst on Earth.   
 
-- Today, I am working or personal projects to enhance my skills with Python (Django), which was the first language I got in touch with.
+- Today, I am working on personal projects to enhance my skills with Python (Django), which was the first language I got in touch with, and React.js.
 - I recently also went through a JavaScript course, and now to become a good and great full-stack developer, I am learning React.js.
 - I'm currently working on a project called **Eugeblog**. If you want to take a look at it, you can go to its [repository](https://github.com/viniciuseugenio/eugeblog)
 
