@@ -1,6 +1,6 @@
 ### Hello friend, I'm Vinícius! 
 
-I'm a 17 years old passionate developer coming from Brazil 🇧🇷. I am a very eager person to experience and learn things, not only in the tech industry, but all about life, people and adventures. I'm always trying to better myself through books, videos and movies. From my point of view, it's possible to take a drop of wisdom everywhere, even in those places and people you deem to be the worst on Earth.   
+I am an 18 years old passionate developer coming from Brazil 🇧🇷. I am a very eager person to experience and learn things, not only in the tech industry, but all about life, people and adventures. I'm always trying to better myself through books, videos and movies. From my point of view, it's possible to take a drop of wisdom everywhere, even in those places and people you deem to be the worst on Earth.   
 
 - Today, I am working on personal projects to enhance my skills with Python (Django), which was the first language I got in touch with, and React.js.
 - I recently also went through a JavaScript course, and now to become a good and great full-stack developer, I am learning React.js.
