@@ -1,15 +1,16 @@
-### Hello friend, I'm Vinícius! 
+Olá!
 
-I am an 18 years old passionate developer coming from Brazil 🇧🇷. I am a very eager person to experience and learn things, not only in the tech industry, but all about life, people and adventures. I'm always trying to better myself through books, videos and movies. From my point of view, it's possible to take a drop of wisdom everywhere, even in those places and people you deem to be the worst on Earth.   
+Me chamo Vinícius Eugênio, desenvolvedor focado em Python e TypeScript. Trabalho principalmente com Django e Django REST no back-end, e React.js no front-end, construindo aplicações full-stack.
 
-- Today, I am working on personal projects to enhance my skills with Python (Django), which was the first language I got in touch with, and React.js.
-- I recently also went through a JavaScript course, and now to become a good and great full-stack developer, I am learning React.js.
-- I'm currently working on a project called **Eugeblog**. If you want to take a look at it, you can go to its [repository](https://github.com/viniciuseugenio/eugeblog)
+Atualmente, estou cursando Sistemas de Informação na ESAMC de Uberlândia, e comecei na jornada de programação há 3 anos. Sou uma pessoa muito curiosa e gosto de entender como e por quê as coisas funcionam (acredito que isso é o natural de qualquer desenvolvedor). Você sempre saberá se uma pessoa usa linux ou não, porque ela inevitavelmente te dirá, então, eu uso arch (btw) com hyprland, e pra melhorar ainda mais as coisas, não troco o neovim.
 
-If you have anything to say or want to connect, feel free to reach me through my accounts! I'll be more than happy to answer and create a new connection! 😃
+Gosto de construir projetos como passa tempo, e gosto mais ainda de resolver os problemas que aparecem quando eu não sei como resolver. Estou sempre aprendendo algo novo!
 
-<p align="center">
-<a href="https://www.linkedin.com/in/eugencius/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-<a href="mailto:viniciuseugeniovhe@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
-</p>
+### Tech Stack
+- Backend: Python, Django, Django REST, SQL/PostgreSQL
+- Frontend: React.js, TypeScript, JavaScript
+- Ferramentas: Git, Docker, Linux (Arch/Ubuntu), Neovim
 
+---
+
+Meus melhores projetos estão fixados no perfil, então dê uma olhada neles, se sinta à vontade para rodá-los e compartilhar suas críticas comigo (pode esculachar, melhor ainda). Meus contatos estão na aba do perfil, caso queira se conectar comigo. Até logo! :)
